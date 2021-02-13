@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aakashshinde
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Bug bounty
+- 📫 How to reach me @rajshindeslv@gmail.com
